@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Laravel,Frappe,Odoo,React**
 
-- 📝 I regularly write articles on [https://und3rw0r7d.blogspot.com/](https://und3rw0r7d.blogspot.com/)
+- 📝 I regularly write articles on [https://medium.com/@mougyzui](https://medium.com/@mougyzui)
 
-- 📫 How to reach me **mougyzui@gmail.com**
+- 📫 How to reach me **mus3r56@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
